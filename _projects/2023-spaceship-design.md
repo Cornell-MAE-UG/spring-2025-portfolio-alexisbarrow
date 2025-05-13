@@ -1,13 +1,12 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+title: Multi-Brush
+description: Tool designed for Intro to Mechanical Design Class
+technologies: [Autodesk Fusion, Product Design, 3D printing]
+image: /assets/images/multi-tool-brush.png
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+This multi-tool is a water bottle brush designed for my Introduction to Mechanical Design class. It was primarily designed using Autodesk Fusion 360 as well as a variety of scrappy prototypes. A multitude of designs were created both solely on CAD and physically materialized before a final design had been chosen, where we presented a pitch to our professor and several course staff. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+The water bottle was designed with convenience, aesthetics, and multi-functionality in mind. It seeks to be a tool that replaces the multitude of water bottle cleaning materials commonly taking up space in kitchen spaces, such as straw cleaners, bottle brushes, and small sponge pieces. This design seeks to make cleaning water bottles more convenienent in terms of tools used, as well as accomodate for a variety of differently sized water bottles.
