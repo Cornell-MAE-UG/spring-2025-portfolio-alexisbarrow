@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+
 
 
 **Email:** [amb662@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +2015406662
@@ -19,11 +19,11 @@ Aspiring engineering student with a strong foundation in sustainability and aero
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
+   
   | Graduation: May, 2027
 
 - **[Ramsey High School]**  
-  *High School Diploma*  
+   
   Graduation: [June, 2023]
 
 ---
@@ -37,12 +37,12 @@ Aspiring engineering student with a strong foundation in sustainability and aero
 
 #### Projects
 - **[Multi-Tool brush]**:  
-  *[Short Description]*  
+   
   - A multi-tool brush designed in my Introduction to Mechanical Synthesis class  
 
 
 - **[Motor Mount]**:  
-  *[Short Description]*  
+
   - Designed a motor mount for the drivetrain assembly of my project team, Cornell Electric Vehicles
  
 
