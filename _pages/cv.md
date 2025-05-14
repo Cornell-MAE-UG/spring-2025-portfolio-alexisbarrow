@@ -8,7 +8,7 @@ permalink: /cv/
 
 
 
-**Email:** [amb662@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +2015406662
+**Email:** [amb662@cornell.edu](mailto:amb662@cornell.edu) | | | **Phone:** +201-540-6662
 
 ---
 

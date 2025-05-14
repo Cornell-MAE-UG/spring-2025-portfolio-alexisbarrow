@@ -6,7 +6,7 @@ title: <Alexis Barrow>
 ## About Me
 
 
-![](assets/images/profilephoto.JPG)
+<img src="assets/images/profilephoto.JPG" width="200">
 
 
  
